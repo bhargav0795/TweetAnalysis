@@ -9,7 +9,7 @@ c.The top n users who have the maximum followers.
 
 d.The top n tweets which have the maximum retweet count.
 
-# How to run program Textanalysis.ipynb:
+# How to run program Text_analysis.ipynb:
 
 You need to change the output file path and specify your local system’s desired URL for all the four functions.
 
