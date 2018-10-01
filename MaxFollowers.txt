@@ -1,0 +1,22 @@
+The top 10 users who has the maximum followers: 
+
+1. Username: scottbourne -> Number of Followers: 221829
+
+2. Username: mtlgazette -> Number of Followers: 218345
+
+3. Username: DraftExpress -> Number of Followers: 126916
+
+4. Username: cchukudebelu -> Number of Followers: 63003
+
+5. Username: drdishbball -> Number of Followers: 52296
+
+6. Username: RapCatchUp -> Number of Followers: 20020
+
+7. Username: DXContent -> Number of Followers: 17785
+
+8. Username: DitzMcGeee -> Number of Followers: 17491
+
+9. Username: TetZoo -> Number of Followers: 16000
+
+10. Username: TalonsAndTails -> Number of Followers: 13724
+
